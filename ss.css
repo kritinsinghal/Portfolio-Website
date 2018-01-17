@@ -1,0 +1,1412 @@
+body
+{
+	background-color: black;
+}
+#head5
+{
+	
+		color: white;
+		position: relative;
+		padding-top: 5%;
+		font-family: 'VegurRegular';
+		align-content: center;
+		margin-left: 40%;
+		
+}
+
+
+#header1:hover
+{
+	-webkit-transform: scale(2000deg); 
+    transform: rotateY(2000deg);
+	-webkit-transition: header1 55s ease;
+}
+
+	.projects
+{
+	
+	
+		background-color: #383838;
+		width: 100%;
+		
+		
+}
+.sub-block table
+{
+	width: 80%;
+	height: 10%;
+	background-color: white;
+	border-color: black;
+	overflow: hidden;
+}
+
+.sub-blocka
+{
+	position: absolute;
+	background-color: white;
+	width: 100%;
+	z-index: 3;
+}
+.sub-blocka img
+{
+	width: 100%;
+	margin-top: 2.8rem;
+	z-index: 4;
+}
+
+.sub-block
+{
+	background-color: black;
+}
+.sub-block h2
+{
+	font-family: 'VegurRegular';
+	color: white;
+	margin-top: 5%;
+}
+
+.footer table
+{
+	margin-left: 5rem;
+	margin-top: 5rem;
+	align-content: left;
+	margin-right: 5rem;
+}
+.footer table tr td p
+{
+		text-align: center;
+		font-family: "Vegur";
+		font-style: normal;
+		position: lighter;
+		font-size: 1rem;
+		color: white;
+}
+.footer p
+{
+		text-align: center;
+		font-family: "Vegur";
+		font-style: normal;
+		position: lighter;
+		font-size: 1rem;
+		color: white;
+}
+a{
+	text-decoration: none;
+}
+ed img
+{
+	width: 80%;
+	height: 80%;
+}
+.teamcard
+{
+	width: 20rem;
+	height: 25rem;
+	background-color: white;
+	box-shadow: 0px 5px 5px #888888;
+	display: inline-block;
+	margin-top: 2rem;
+	margin-left: 1rem;
+	margin-right: 1rem;
+	margin-bottom: 2rem;
+	align-content: center;
+
+}
+.teamcard img
+{
+	width: 100%;
+	height: auto;
+}
+.teamcard p
+{
+	text-align: center;
+	font-family: 'VegurRegular';
+		
+		font-style: normal;
+		position: lighter;
+		font-size: 1.2rem;
+		color: #414141;
+
+}
+.projectcard
+{
+	width: 15rem;
+	height: 20rem;
+	background-color: white;
+	box-shadow: 0px 5px 5px #888888;
+	display: inline-block;
+	margin-top: 2rem;
+	margin-left: 1rem;
+	margin-right: 1rem;
+	margin-bottom: 2rem;
+	align-content: center;
+
+}
+.projectcard img
+{
+
+	height: auto;
+	margin-top: 5%;
+}
+.white-box
+{
+	width: 80%;
+	box-shadow: 15px 5px 15px #444242; 
+	background-color: #B5B3B3;
+	display: inline-block;
+		
+}
+.over
+{
+	
+	width: 100%;
+	background-color: black;
+	
+	background-attachment: fixed;
+	
+}
+.over h1
+{
+	padding-top: 5%;
+	font-size: 2rem;
+	font-family: 'VegurRegular';
+	color: white;
+}
+/*
+.over p
+{
+	margin-top: 5%;
+	font-family: 'VegurRegular';
+	color: lightgrey;
+}*/
+.over img
+{
+	width: 35%;
+	height: auto;
+	position: relative;
+	-webkit-transform: opacity 7s ease;
+	padding: 1rem 0.5rem 0.5rem 1rem;
+}
+.over ul
+{
+	font-family: 'VegurRegular';
+	color: dimgray;
+	align-content: left;
+	
+	
+}
+.over a
+{
+	
+	font-family: 'VegurRegular';
+	color: dimgray;
+}
+/*
+.previous
+{
+	background-color: white;
+	color: black;
+	padding: 8px 16px;
+	margin-left: 0%;
+	margin-top: 30%;
+	position: absolute;
+	
+	
+
+}
+.previous:hover{
+	background-color: black;
+	color: white;
+}
+.next{
+	background-color: white;
+	color: black;
+	padding: 8px 16px;
+	
+	margin-top: 30%;
+	margin-left: 30%;
+	margin-right: 30%;
+	position: absolute;
+}
+.next:hover{
+	background-color: black;
+	color: white;
+}
+.round 
+{
+	border-radius: 50%;
+}
+*/
+.projectcard:hover .over
+{
+	opacity: 1;
+}
+.projectcard p
+{
+	text-align: center;
+	font-family: 'VegurRegular';
+		
+		font-style: normal;
+		position: lighter;
+		font-size: 1.2rem;
+		color: #414141;
+
+}
+#name 
+{
+	text-align: center;
+	
+	font-family: "VegurRegular";
+		
+		font-style: normal;
+		position: lighter;
+		font-size: 1.2rem;
+		color: #414141;
+
+}
+#position
+{
+
+	text-align: center;
+	margin-top: 1rem;
+	font-family: "VegurRegular";
+		
+		font-style: normal;
+		position: lighter;
+		font-size: 1.5rem;
+		color: black;
+
+}
+#college
+{
+	color: #FE7700;
+	text-align: center;
+	margin-top: 4rem;
+	font-family: "Vegur";
+		
+		font-style: normal;
+		position: lighter;
+		font-size: 0.8em;
+		
+}
+.blockc{
+			width: 100%;
+	height: 100%;
+	position: absolute;
+	overflow: visible;
+	background-color: #ECECEC;
+	display: block;
+	margin-top: 30rem;
+		}
+@media only screen and ( min-width: 750px) and (max-width: 1200px)
+{
+	.over p
+{
+	margin-top: 5%;
+	font-family: 'VegurRegular';
+	color: lightgray;
+}
+	.menucard
+		{
+			display: none;
+		}
+		#toggle
+		{
+			display: none;
+		}
+	.blockb
+{
+	background-color: white;
+
+}
+	.blockb h1
+	{
+		color: dimgray;
+		position: relative;
+		margin-top: 10%;
+		display: inline-block;
+		font-family: 'VegurRegular';
+	}
+	.banner img
+	{
+		opacity: 1;
+		width: 100%;
+		height: auto;
+		-webkit-transition: opacity 3s ease;
+		position: relative;
+		-webkit-filter: blur(2px);
+ 		-moz-filter: blur(2px);
+        -o-filter: blur(2px);
+   		-ms-filter: blur(2px);
+   		background-attachment: scroll;
+  		filter: blur(2px);
+  		filter: brightness(25%);
+		z-index: 1;
+  		clip: rect(2rem, 200rem,40rem,0px);
+
+}
+	.blockb p
+	{
+		color: dimgray;
+		position: relative;
+		margin-left: 10%;
+		margin-right: 10%;
+		display: inline-block;
+		font-family: 'VegurRegular';
+	}
+	
+	.banner p
+	{
+		color: white;
+		margin-top: 0%;
+		position: static;
+		font-size: 40px;
+		/*padding-top: 30%;
+		padding-bottom: 10%;*/
+		text-align: center;
+		/*margin-left: 35%;
+		margin-right: 20%;*/
+		font-family: 'VegurRegular';
+		z-index: 2;
+	}
+	
+	.over
+	{
+		height: 0;
+		overflow: hidden;
+		-webkit-transition: height 2s ease;
+		
+	}
+	
+	
+	.projectcard:hover 
+	{
+		 -webkit-animation: swing 1s ease;
+        animation: swing 1s ease;
+        -webkit-animation-iteration-count: 1;
+        animation-iteration-count: 1;
+		
+	}
+	.over ul
+	{
+		margin-left: 40%;
+	}
+		.menu
+	{
+	position: fixed;
+	background-color: black;
+	display: inline-block;
+	width: 100%;
+	height: 4rem;
+	z-index: 4;
+	margin-top: -0.5rem;
+
+	border-bottom-style: solid;
+	border-color: white;
+	border-width: 2px;
+	opacity: 0;
+	-webkit-transition: 3s ease;
+}
+
+.menuelements
+{
+	
+	width: 12%;
+	height: 104%;
+	margin-left: 0rem;
+	margin-right: 0rem;
+	margin-top: -0.5rem;
+	
+	display: inline-block;
+	-webkit-transition: background-color 1s ease;
+
+}
+
+#menu1
+{
+	margin-left: 15rem;
+}
+
+.menuelements p
+{
+	text-align: center;
+		font-family: 'VegurRegular';
+		font-style: normal;
+		position: lighter;
+		font-size: 0.8rem;
+		color: white;
+		margin-top: 2rem;
+		margin-left: 0.5rem;
+		margin-bottom: 0.3rem;
+		-webkit-transition: color 1s ease;
+}
+	.blocka
+	{
+	
+		background-color: #383838;
+		width: 100%;
+		
+		}
+	.blocka h1
+		{
+		color: white;
+		position: relative;
+		padding-top: 5%;
+		font-family: 'VegurRegular';
+		
+		}
+	.blocka p
+	{
+		color: #383838;
+		position: relative;
+		margin-left: 10%;
+		margin-right: 10%;
+		font-family: 'VegurRegular';
+	}
+	#loadarrow
+	{
+		width: 5rem;
+		height: auto;
+		margin-top: 5rem;
+		position: relative;
+	}
+	.header
+	{
+		text-align: center;
+		font-family: "Nixie One";
+		
+		font-style: normal;
+		position: lighter;
+		font-size: 1.2rem;
+		color: #FE7700;
+		margin-top: 4rem;
+		
+	}
+	.content
+	{
+		text-align: left;
+		font-family: "Vegur";
+		font-style: normal;
+		position: lighter;
+		font-size: 1rem;
+		color: black;
+		margin-left: 20rem;
+		margin-right: 20rem;
+				
+	}
+	.sub-blockb
+	{
+		width: 30%;
+		height: 30%;
+		overflow: hidden;
+		display: inline-block;
+		margin-right: 0.2rem;
+		margin-left: 0.2rem;
+		margin-top: 1rem;
+		margin-bottom: 1rem;
+			}
+	.sub-blockb img
+	{
+		-webkit-filter: blur(2px);
+ 		-moz-filter: blur(2px);
+        -o-filter: blur(2px);
+   		-ms-filter: blur(2px);
+   		filter: blur(2px);
+  		filter: brightness(25%);
+  		display: block;
+  		  		
+	}
+
+
+
+.headersub
+	{
+		margin-top: 1rem;
+		text-align: center;
+		font-family: "Nixie One";
+		
+		font-style: normal;
+		position: lighter;
+		font-size: 1.2rem;
+		color: white;
+		
+	}
+	.headercontent
+	{
+		margin-top: 1rem;
+		margin-left: 30rem;
+		margin-right: 30rem;
+		text-align: left;
+		font-size: 1rem;
+		color: white;
+		font-family: "Vegur";
+
+	}
+	.divcontent
+	{
+		position: relative;
+		margin-top: -13rem;
+		
+		margin-bottom: 8rem;
+	}
+	
+	.footer
+	{
+	background-color:  #993d00;
+	width: 100%;
+	height: 40%;
+	position: absolute;
+	margin-top: 72rem;
+		}
+	
+}
+@media only screen and (max-width: 750px)
+{
+	.over p
+	{
+	margin-top: 5%;
+	font-family: 'VegurRegular';
+	color: lightgray;
+	}
+	.menu img
+	{
+		width: 2rem;
+		height: auto;
+		margin:1%;
+		margin-left: 3%;
+		z-index: 100;
+	}
+	.menuelements
+	{
+		display: none;
+	}
+	.menucard
+	{
+		height: 100%;
+		width: 0%;
+		background-color: white;
+		position: fixed;
+		vertical-align: right;
+		margin-left: 0%;
+		overflow: hidden;
+		z-index: 100;
+		-webkit-transition: width 0.5s ease;
+	}
+	.banner img
+	{
+		opacity: 1;
+		width: 100%;
+		height: auto;
+		-webkit-transition: opacity 3s ease;
+		position: relative;
+		-webkit-filter: blur(2px);
+ 		-moz-filter: blur(2px);
+        -o-filter: blur(2px);
+   		-ms-filter: blur(2px);
+   		background-attachment: scroll;
+  		filter: blur(2px);
+  		filter: brightness(25%);
+		z-index: 1;
+  		clip: rect(2rem, 200rem,40rem,0px);
+
+}
+	.banner p
+	{
+		color: white;
+		margin-top: 0%;
+		position: absolute;
+		font-size: 30px;
+		padding-top: 40%;
+		padding-bottom: 10%;
+		align-content: center;
+		text-align: center;
+		margin-left: 15%;
+		margin-right: 15%;
+		font-family: 'VegurRegular';
+		z-index: 2;
+	}
+
+	.menucard div
+	{
+		background-color: white;
+		width: 100%;
+		height: 10%;
+		
+	}
+	a
+	{
+		color: #FE7700;
+		text-decoration: none;
+	}
+	
+	.menucard p
+	{
+		color: #FE7700;
+		font-family: "Vegur", sans-serif;
+		
+		margin-top: 2.5rem;	
+		text-align: left;
+		margin-left: 30%;
+		position: relative;
+	}
+	.blockb
+{
+	background-color: white;
+
+}
+	.blockb h1
+	{
+		color: dimgray;
+		position: relative;
+		margin-top: 10%;
+		display: inline-block;
+		font-family: 'VegurRegular';
+	}
+	.blockb p
+	{
+		color: dimgray;
+		position: relative;
+		margin-left: 10%;
+		margin-right: 10%;
+		display: inline-block;
+		font-family: 'VegurRegular';
+	}
+	.blocka
+	{
+	
+	background-color: #383838;
+		width: 100%;
+		margin-top: 5%;
+		padding-top: 5%;
+		
+	
+		}
+	.over ul
+	{
+		margin-left: 30%;
+	}
+		.blocka h1
+		{
+		color: white;
+		position: relative;
+		margin-top: 10%;
+		font-family: 'VegurRegular';
+		
+		}
+	.blocka p
+	{
+		color: #383838;
+		position: relative;
+		margin-left: 10%;
+		margin-right: 10%;
+		font-family: 'VegurRegular';
+	}
+	
+	
+	#loadarrow
+	{
+		width: 5rem;
+		height: auto;
+		margin-top: 5rem;
+		position: relative;
+	}
+	.header
+	{
+		text-align: center;
+		font-family: "Nixie One";
+		
+		font-style: normal;
+		position: lighter;
+		font-size: 1.2rem;
+		color: #FE7700;
+		margin-top: 3rem;
+		margin-right: 1rem;
+		margin-left: 1rem;
+		
+	}
+
+	.content
+	{
+		text-align: left;
+		font-family: "Vegur";
+		font-style: normal;
+		position: lighter;
+		font-size: 1rem;
+		color: black;
+		margin-left: 5rem;
+		margin-right: 5rem;
+		margin-bottom: 5rem;
+		
+	}
+	.sub-blockb
+	{
+		width: 100%;
+		height: 40%;
+		overflow: hidden;
+		position: relative;
+		margin-right: 1rem;
+		margin-left: 0rem;
+		margin-top: 1rem;
+		margin-bottom: 1rem;
+	}
+	.sub-blockb img
+	{
+		width: 100%;
+		height: 100%;
+		-webkit-filter: blur(2px);
+		position: fixed;
+ 		-moz-filter: blur(2px);
+        -o-filter: blur(2px);
+   		-ms-filter: blur(2px);
+   		position: relative;
+   		filter: blur(2px);
+  		filter: brightness(25%);
+  		  		
+	}
+	.headersub
+	{
+		margin-top: 1rem;
+		text-align: center;
+		font-family: "Nixie One";
+		
+		font-style: normal;
+		position: lighter;
+		font-size: 1.2rem;
+		color: white;
+		
+	}
+	.headercontent
+	{
+		margin-top: 1rem;
+		margin-left: 4rem;
+		margin-right: 4rem;
+		text-align: left;
+		font-size: 1rem;
+		color: white;
+		font-family: "Vegur";
+
+	}
+	.divcontent
+	{
+		position: relative;
+		margin-top: -15rem;
+		
+		margin-bottom: 8rem;
+	}
+
+	.footer
+	{
+	background-color:  #993d00;
+	width: 100%;
+	height: 40%;
+	position: absolute;
+	margin-top: 72rem;
+	}
+	
+}
+@media only screen and (min-width: 1200px)
+{
+	.over{
+		 height: 0%;
+		overflow: scroll;
+		width: 100%;
+		position: relative;
+		-webkit-transition: height 10s ease;
+	}
+	.projects{
+		padding-left: 7.5%;}
+.over p
+{
+	margin-top: 5%;
+	font-family: 'VegurRegular';
+	color: lightgray;
+}
+	
+.projectcard
+{
+	width: 15rem;
+	height: 20rem;
+	background-color: white;
+	overflow: hidden;
+	box-shadow: 0px 5px 5px #888888;
+	margin-top: 2rem;
+	margin-left: 1rem;
+	margin-right: 1rem;
+	margin-bottom: 2rem;
+	align-content: center;
+
+}
+	.projectcard:hover 
+	{
+		 
+
+        -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        
+		-webkit-transition: projectcard 0.5s ease;
+		/*-webkit-animation: swing 1s ease;
+        animation: swing 1s ease;
+        -webkit-animation-iteration-count: 1;
+        animation-iteration-count: 1;*/
+		
+
+	}
+
+	.menucard
+		{
+			display: none;
+		}
+		#toggle
+		{
+			display: none;
+		}
+	.blockb
+{
+	background-color: white;
+
+}
+	.blockb h1
+	{
+		color: dimgray;
+		position: relative;
+		margin-top: 10%;
+		display: inline-block;
+		font-family: 'VegurRegular';
+	}
+	.banner img
+	{
+		opacity: 1;
+		width: 100%;
+		height: auto;
+		-webkit-transition: opacity 3s ease;
+		position: relative;
+		-webkit-filter: blur(2px);
+ 		-moz-filter: blur(2px);
+        -o-filter: blur(2px);
+   		-ms-filter: blur(2px);
+   		background-attachment: scroll;
+  		filter: blur(2px);
+  		filter: brightness(25%);
+		z-index: 1;
+  		clip: rect(2rem, 200rem,40rem,0px);
+
+}
+	.over ul
+	{
+		margin-left: 40%;
+	}
+	.blockb p
+	{
+		color: dimgray;
+		position: relative;
+		margin-left: 10%;
+		margin-right: 10%;
+		display: inline-block;
+		font-family: 'VegurRegular';
+	}
+	.banner p
+	{
+		color: white;
+		margin-top: 0%;
+		position: absolute;
+		font-size: 50px;
+		padding-top: 40%;
+		padding-bottom: 10%;
+		align-content: center;
+		margin-left: 40%;
+		margin-right: 25%;
+		font-family: 'VegurRegular';
+		z-index: 2;
+	}
+
+		.menu
+	{
+	position: fixed;
+	background-color: black;
+	display: inline-block;
+	width: 100%;
+	height: 10%;
+	z-index: 4;
+	margin-top: -0.5rem;
+
+	border-bottom-style: solid;
+	border-color: white;
+	border-width: 2px;
+	opacity: 0;
+	-webkit-transition: 3s ease;
+}
+
+.menuelements
+{
+	
+	width: 15%;
+	height: 104%;
+	margin-left: 0rem;
+	margin-right: 0rem;
+	margin-top: -0.5rem;
+	
+	display: inline-block;
+	-webkit-transition: background-color 1s ease;
+
+}
+
+#menu1
+{
+	margin-left: 15rem;
+}
+
+.menuelements p
+{
+	text-align: center;
+		font-family: "SANSSERIFFLF";
+		font-style: normal;
+		position: lighter;
+		font-size: 0.8rem;
+		color: white;
+		margin-top: 2rem;
+		margin-left: 0.5rem;
+		margin-bottom: 0.3rem;
+		-webkit-transition: color 1s ease;
+}
+	.blocka
+	{
+	
+	background-color: #383838;
+		width: 45%;
+		padding-top: 3px;
+		display: inline-block;
+		
+		}
+	.blocka h1
+		{
+		color: white;
+		position: relative;
+		margin-top: 10%;
+		font-family: 'VegurRegular';
+		
+		}
+	.blocka p
+	{
+		color: #383838;
+		position: relative;
+		margin-left: 10%;
+		margin-right: 10%;
+		font-family: 'VegurRegular';
+	}
+	#loadarrow
+	{
+		width: 5rem;
+		height: auto;
+		margin-top: 5rem;
+		position: relative;
+	}
+	.header
+	{
+		text-align: center;
+		font-family: "Nixie One";
+		
+		font-style: normal;
+		position: lighter;
+		font-size: 1.2rem;
+		color: #FE7700;
+		margin-top: 4rem;
+		
+	}
+	.content
+	{
+		text-align: left;
+		font-family: "Vegur";
+		font-style: normal;
+		position: lighter;
+		font-size: 1rem;
+		color: black;
+		margin-left: 20rem;
+		margin-right: 20rem;
+				
+	}
+	.sub-blockb
+	{
+		width: 30%;
+		height: 30%;
+		overflow: hidden;
+		display: inline-block;
+		margin-right: 0.2rem;
+		margin-left: 0.2rem;
+		margin-top: 1rem;
+		margin-bottom: 1rem;
+			}
+	.sub-blockb img
+	{
+		-webkit-filter: blur(2px);
+ 		-moz-filter: blur(2px);
+        -o-filter: blur(2px);
+   		-ms-filter: blur(2px);
+   		filter: blur(2px);
+  		filter: brightness(25%);
+  		display: block;
+  		  		
+	}
+
+
+
+.headersub
+	{
+		margin-top: 1rem;
+		text-align: center;
+		font-family: "Nixie One";
+		
+		font-style: normal;
+		position: lighter;
+		font-size: 1.2rem;
+		color: white;
+		
+	}
+	.headercontent
+	{
+		margin-top: 1rem;
+		margin-left: 30rem;
+		margin-right: 30rem;
+		text-align: left;
+		font-size: 1rem;
+		color: white;
+		font-family: "Vegur";
+
+	}
+	.divcontent
+	{
+		position: relative;
+		margin-top: -13rem;
+		
+		margin-bottom: 8rem;
+	}
+	
+	.projectcard img
+	{
+		width: 100%;
+		height: 15rem;
+	}
+	.footer
+	{
+	background-color:  #993d00;
+	width: 100%;
+	height: 40%;
+	position: absolute;
+	margin-top: 72rem;
+		}
+	.menu{
+		height: 5rem;
+	}
+}
+@media only screen 
+and (min-device-width : 350px) 
+and (max-device-width : 700px) 
+and (orientation : portrait)
+{
+	.over p
+{
+	margin-top: 5%;
+	font-family: 'VegurRegular';
+	color: lightgrey;
+}
+	.menu{
+		height: 8rem;
+	}
+	.menu img
+	{
+		width: 2rem;
+		height: auto;
+		margin:1%;
+		margin-left: 50%;
+		z-index: 100;
+	}
+	.menuelements
+	{
+		display: none;
+	}
+	.menucard
+	{
+		height: 100%;
+		width: 0%;
+		background-color: white;
+		position: fixed;
+		vertical-align: right;
+		margin-left: 0%;
+		overflow: hidden;
+		z-index: 100;
+		-webkit-transition: width 0.5s ease;
+	}
+	.banner img
+	{
+		opacity: 1;
+		width: 100%;
+		height: auto;
+		-webkit-transition: opacity 3s ease;
+		position: relative;
+		-webkit-filter: blur(2px);
+ 		-moz-filter: blur(2px);
+        -o-filter: blur(2px);
+   		-ms-filter: blur(2px);
+   		background-attachment: scroll;
+  		filter: blur(2px);
+  		filter: brightness(25%);
+		z-index: 1;
+  		clip: rect(2rem, 200rem,40rem,0px);
+
+}
+	.banner p
+	{
+		color: white;
+		margin-top: 0%;
+		position: absolute;
+		font-size: 30px;
+		padding-top: 40%;
+		padding-bottom: 10%;
+		align-content: center;
+		margin-left: 30%;
+		margin-right: 25%;
+		font-family: 'VegurRegular';
+		z-index: 2;
+	}
+
+	.menucard div
+	{
+		background-color: white;
+		width: 100%;
+		height: 10%;
+		
+	}
+	a
+	{
+		color: #FE7700;
+		text-decoration: none;
+	}
+	
+	.menucard p
+	{
+		color: #FE7700;
+		font-family: "Vegur", sans-serif;
+		
+		margin-top: 2.5rem;	
+		text-align: left;
+		margin-left: 30%;
+		position: relative;
+	}
+	.blockb
+{
+	background-color: white;
+
+}
+	.blockb h1
+	{
+		color: dimgray;
+		position: relative;
+		margin-top: 10%;
+		display: inline-block;
+		font-family: 'VegurRegular';
+	}
+	.blockb p
+	{
+		color: dimgray;
+		position: relative;
+		margin-left: 10%;
+		margin-right: 10%;
+		display: inline-block;
+		font-family: 'VegurRegular';
+	}
+	.blocka
+	{
+	
+	background-color: #383838;
+		width: 100%;
+	
+		}
+	.over ul
+	{
+		margin-left: 30%;
+	}
+		.blocka h1
+		{
+		color: white;
+		position: relative;
+		margin-top: 10%;
+		font-family: 'VegurRegular';
+		
+		}
+	.blocka p
+	{
+		color: #383838;
+		position: relative;
+		margin-left: 10%;
+		margin-right: 10%;
+		font-family: 'VegurRegular';
+	}
+	
+	
+	#loadarrow
+	{
+		width: 5rem;
+		height: auto;
+		margin-top: 5rem;
+		position: relative;
+	}
+	.header
+	{
+		text-align: center;
+		font-family: "Nixie One";
+		
+		font-style: normal;
+		position: lighter;
+		font-size: 1.2rem;
+		color: #FE7700;
+		margin-top: 3rem;
+		margin-right: 1rem;
+		margin-left: 1rem;
+		
+	}
+
+	.content
+	{
+		text-align: left;
+		font-family: "Vegur";
+		font-style: normal;
+		position: lighter;
+		font-size: 1rem;
+		color: black;
+		margin-left: 5rem;
+		margin-right: 5rem;
+		margin-bottom: 5rem;
+		
+	}
+	.sub-blockb
+	{
+		width: 100%;
+		height: 40%;
+		overflow: hidden;
+		position: relative;
+		margin-right: 1rem;
+		margin-left: 0rem;
+		margin-top: 1rem;
+		margin-bottom: 1rem;
+	}
+	.sub-blockb img
+	{
+		width: 100%;
+		height: 100%;
+		-webkit-filter: blur(2px);
+		position: fixed;
+ 		-moz-filter: blur(2px);
+        -o-filter: blur(2px);
+   		-ms-filter: blur(2px);
+   		position: relative;
+   		filter: blur(2px);
+  		filter: brightness(25%);
+  		  		
+	}
+	.headersub
+	{
+		margin-top: 1rem;
+		text-align: center;
+		font-family: "Nixie One";
+		
+		font-style: normal;
+		position: lighter;
+		font-size: 1.2rem;
+		color: white;
+		
+	}
+	.headercontent
+	{
+		margin-top: 1rem;
+		margin-left: 4rem;
+		margin-right: 4rem;
+		text-align: left;
+		font-size: 1rem;
+		color: white;
+		font-family: "Vegur";
+
+	}
+	.divcontent
+	{
+		position: relative;
+		margin-top: -15rem;
+		
+		margin-bottom: 8rem;
+	}
+
+	.footer
+	{
+	background-color:  #993d00;
+	width: 100%;
+	height: 40%;
+	position: absolute;
+	margin-top: 72rem;
+	}
+	
+}
+
+@-webkit-keyframes swing
+{
+    15%
+    {
+        -webkit-transform: translateX(5px);
+        transform: translateX(5px);
+    }
+    30%
+    {
+        -webkit-transform: translateX(-5px);
+       transform: translateX(-5px);
+    } 
+    50%
+    {
+        -webkit-transform: translateX(3px);
+        transform: translateX(3px);
+    }
+    65%
+    {
+        -webkit-transform: translateX(-3px);
+        transform: translateX(-3px);
+    }
+    80%
+    {
+        -webkit-transform: translateX(2px);
+        transform: translateX(2px);
+    }
+    100%
+    {
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+    }
+}
+@keyframes swing
+{
+    15%
+    {
+        -webkit-transform: translateX(5px);
+        transform: translateX(5px);
+    }
+    30%
+    {
+        -webkit-transform: translateX(-5px);
+        transform: translateX(-5px);
+    }
+    50%
+    {
+        -webkit-transform: translateX(3px);
+        transform: translateX(3px);
+    }
+    65%
+    {
+        -webkit-transform: translateX(-3px);
+        transform: translateX(-3px);
+    }
+    80%
+    {
+        -webkit-transform: translateX(2px);
+        transform: translateX(2px);
+    }
+    100%
+    {
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+    }
+}
